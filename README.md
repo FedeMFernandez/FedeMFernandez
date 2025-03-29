@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Federico Maximiliano Fernández! 👋 </h1>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=fedemfernandez&left_color=royalblue&right_color=black" alt="visitor badge"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fedemfernandez&left_color=royalblue&right_color=black" alt="visitor badge"/>
 
 <!--
 **FedeMFernandez/FedeMFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
