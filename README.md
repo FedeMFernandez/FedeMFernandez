@@ -7,7 +7,6 @@
 
 - 🔨 **Right now:** Building a WhatsApp bot for entrepreneurs.
 - ⚙️ **My thing:** Node.js / TypeScript, Angular, microservices, microfrontends, serverless architectures, and keeping code clean enough to still make sense six months later.
-- 🎓 **Currently on:** Studying to get my AWS Solutions Architect – Associate (SAA-C03) certification.
 - 🧠 **Been around:** Fintechs, videogames, and a pile of full-stack projects.
 - 🌱 Learn to learn.
 
