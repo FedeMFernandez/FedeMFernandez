@@ -15,12 +15,12 @@
 
 ### 🛠️ Tech I reach for
 
-**Languages:** JavaScript / TypeScript · Go · Java
-**Backend:** Node.js · Express · NestJS · gin · SpringBoot
-**Frontend:** Angular · React · Vanilla JS
-**Cloud & DevOps:** AWS (Lambda, ECS, DynamoDB, S3) · Terraform · CloudFormation · Docker · CI/CD
-**Data:** PostgreSQL · MySQL · DynamoDB · MongoDB · Redis
-**AI:** LLMs · RAG · embeddings · multi-agent workflows
+**Languages:** JavaScript / TypeScript · Go · Java.
+**Backend:** Node.js · Express · NestJS · gin · SpringBoot.
+**Frontend:** Angular · React · Vanilla JS.
+**Cloud & DevOps:** AWS (Lambda, ECS, DynamoDB, S3) · Terraform · CloudFormation · Docker · CI/CD.
+**Data:** PostgreSQL · MySQL · DynamoDB · MongoDB · Redis.
+**AI:** LLMs · RAG · embeddings · multi-agent workflows.
 
 ---
 
