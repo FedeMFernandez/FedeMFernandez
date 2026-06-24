@@ -1,7 +1,7 @@
 <h1>Hi, I'm Federico Maximiliano Fernández! 👋</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fedemfernandez&left_color=royalblue&right_color=black" alt="visitor badge"/>
 
-**Backend Engineer** from Paraná, Argentina 🇦🇷 — I build APIs and systems that hold up under real load.
+**Fullstack Engineer** from Paraná, Argentina 🇦🇷 — I build APIs and systems that hold up under real load.
 
 ---
 
